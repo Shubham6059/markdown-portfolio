@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+* I love watching anime, Dragon Ball being the most favorite. ❤
+* Eat, Sleep, Code, Repeat 😜
