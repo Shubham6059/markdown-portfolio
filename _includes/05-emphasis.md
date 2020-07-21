@@ -1,0 +1,3 @@
+- I usually work on **Android Development**.
+- Nowadays I am working on **Python Programming**.
+  - Working on chatbot using *Rasa Framework*.
