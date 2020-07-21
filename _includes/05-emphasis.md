@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- I usually work on **Android Development**.
+- Nowadays I am working on **Python Programming**.
+  - Working on chatbot using *Rasa Framework*.
